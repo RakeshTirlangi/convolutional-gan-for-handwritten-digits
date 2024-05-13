@@ -15,11 +15,12 @@ By training these models in competition, the generator progressively improves it
 
 The following images illustrate the architectures of both the generator and discriminator models:
 
-* **Generator Architecture (Generator_arch.png):** This image depicts the layers and connections within the generator model, showcasing how it transforms random noise into a synthetic handwritten digit.
+* **Generator Architecture ![generator](generator.png)**
+* This image depicts the layers and connections within the generator model, showcasing how it transforms random noise into a synthetic handwritten digit.
 
-* **Discriminator Architecture (Discriminator_arch.png):** This image visualizes the architecture of the discriminator model, highlighting how it analyzes an image and determines its likelihood of being a real MNIST digit.
+* **Discriminator Architecture ![discriminator](discriminator.png)**
+* This image visualizes the architecture of the discriminator model, highlighting how it analyzes an image and determines its likelihood of being a real MNIST digit.
 
-**Note:** These image filenames are just examples, you can replace them with your actual filenames.
 
 ### Training Process
 
